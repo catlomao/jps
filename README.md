@@ -35,7 +35,7 @@ that it!
 # 3. The already built file which is jps .exe
 - AGAIN you can download the jps.exe file in the release section
 ***just download it and click the jps.exe file***
-*yes it works with wine too!*
+# ⚠️ the exe file might not always work, it didnt work with wine maybe it would work in your windows machine
 #
 if you like this repo Dont forget to give it a star
 [![Star](https://img.shields.io/github/stars/username/repo.svg?style=social&label=Star)](https://github.com/catlomao/jps)
