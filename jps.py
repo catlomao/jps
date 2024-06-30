@@ -1,4 +1,4 @@
-import time
+# removed time pkg because it useless!
 # edit katakana table here
 def katakana(char):
     katakana_char = {
