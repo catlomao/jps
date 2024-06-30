@@ -33,7 +33,7 @@ python jps.py
 ```
 that it!
 # 3. The already built file which is jps .exe
-- AGAIN you can download the py file or source code in the release section
+- AGAIN you can download the jps.exe file in the release section
 ***just download it and click the jps.exe file***
 *yes it works with wine too!*
 #
