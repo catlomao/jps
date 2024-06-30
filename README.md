@@ -6,7 +6,7 @@ the project comes with three different types of running it
  2. Source code
  3. The already built file which is jps .exe
  # 1. as a pkg aka module
- - you can download the module in the release section
+ - you can download in the main branch
  # examples
 
 ```py
@@ -26,7 +26,7 @@ print(katakana("ko n ni chi wa"))
 ```
 if you want to use katakana only
 # 2. Source code
-- again you can download the py file or source code in the release section
+- again you can download the py file or source code in the main branch
 ### run it
 ```konsole
 python jps.py
