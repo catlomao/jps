@@ -1,4 +1,6 @@
-
+# UPDATE 2024/07/16 !
+## instend of me being lazy using chatgpt i decided to fix it myself (reverse.py)
+## also made it a pkg too
 # jps
 **A  simple Python Program that translate EN spelling into JP**
 the project comes with three different types of running it
