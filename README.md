@@ -1,4 +1,5 @@
-check update.md for info
+### check update.md for info
+# jps
 **A  simple Python Program that translate EN spelling into JP**
 the project comes with three different types of running it
  1. as a pkg aka module
